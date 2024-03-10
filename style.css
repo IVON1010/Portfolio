@@ -1,0 +1,23 @@
+h2{
+    color: red;
+    font: bold;
+}
+#tables{
+    height: 220px;
+    width:300px;
+}
+img{
+    height: 220%;
+    width: 300px;
+}
+body{
+    border-color: aqua;
+    background-color: beige;
+}
+h3{
+    color: rgb(165, 107, 107);
+}
+form{
+    color: brown;
+    
+}
